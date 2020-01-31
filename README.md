@@ -13,7 +13,7 @@ Head on over to the releases tab (when I make a release) and download the recent
 
 
 # Usage
-###All distros (should) run the same.
+### All distros (should) run the same.
 
 Run the jar file with ```java -jar serverconnectionchecker-<RECENT-VERSION>.jar```. Of course, replacing <RECENT-VERSION> with the recent version number (if it's something like "4.2-SNAPSHOT" then put "serverconnectionchecker-4.2-SNAPSHOT.jar")
 
