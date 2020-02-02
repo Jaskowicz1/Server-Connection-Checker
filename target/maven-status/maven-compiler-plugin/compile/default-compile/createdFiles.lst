@@ -1,0 +1,3 @@
+me\jaskowicz\serverconnectionchecker\Main.class
+me\jaskowicz\serverconnectionchecker\Tasks\ServerCheckerTask.class
+me\jaskowicz\serverconnectionchecker\Utils\Server.class
