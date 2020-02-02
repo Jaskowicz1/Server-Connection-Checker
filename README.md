@@ -26,6 +26,23 @@ So far, this can only check for local ports. I will look into trying to make it 
 
 ---
 
+# Examples
+
+You can use this to check for any server with a port: Minecraft servers, Factorio servers, Space Engineers servers and, again, 
+any other server that has a port!
+
+If you want to check for Minecraft servers from port 25565 to 25570, do:
+```
+0.0.0.0:25565
+0.0.0.0:25566
+0.0.0.0:25567
+0.0.0.0:25568
+0.0.0.0:25569
+0.0.0.0:25570
+```
+
+This should help you get an idea of how to change the files for the jar file!
+
 
 # License
 
