@@ -21,7 +21,7 @@ This will run the jar file and create a text file, upon first run, asking for IP
 
 If you want to use a custom text file (which follows the format of IP:PORT) then proceed to do ```java -jar serverconnectionchecker-<RECENT-VERSION>.jar --file="<Insert File Name Here>.txt"```. This should try find that file and read the values within it.
 
-So far, this can only check for local ports. I will look into trying to make it compatable for global IPs and not what is on the server upon which this is hosted on.
+So far, this can only check for local ports. I will look into trying to make it compatable for global IPs and not what is on the server upon which this is hosted on (Lines can only look like "localhost:25565" or "127.0.0.1:22" or "0.0.0.0:34197". Any other IPs entered will cause an error).
 
 
 ---
