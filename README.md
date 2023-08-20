@@ -2,6 +2,8 @@
 
 Checks the connections of servers listed within a text file.
 
+THIS PROJECT IS NOW READ-ONLY. Please look to use something like Icinga2 as this project is severly dated and will never receive updates.
+
 ---
 
 
